@@ -20,6 +20,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+- 🔭 I’m currently working on **React Native Project Perfecto Casa**
+
+- 🌱 I’m currently learning  **MongoDB**
+
+- 💬 Ask me about **anything regarding React.JS** 
+
 - 📫 How to reach me **sadaif.lahore@gmail.com**
 
 - ⚡ Fun fact **I think I am funny XD**
