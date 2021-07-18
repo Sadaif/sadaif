@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on **React Native Project Perfecto Casa**
+- 🔭 I’m currently working in a startup
 
 - 🌱 I’m currently learning  **MongoDB**
 
