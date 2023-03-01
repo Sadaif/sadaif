@@ -1,4 +1,4 @@
-<!-- ![MasterHead](https://wallpapersmug.com/download/1920x1080/acd20d/reactjs-atom-minimal.jpg) -->
+![MasterHead](https://github.com/Sadaif/sadaif/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Sadaif Rizvi </h1>
 <h3 align="center">I'm a Husband, Father and Developer !!</h3>
 
